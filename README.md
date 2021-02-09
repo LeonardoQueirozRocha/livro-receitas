@@ -3,3 +3,4 @@
 Olá! Bem vindo ao meu livro de receitas :wave:
 
 - Strongnoff de frango
+- Pave
